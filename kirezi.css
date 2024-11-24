@@ -1,0 +1,32 @@
+body{
+    padding: 30px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.navitems{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.hero{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}.hero p{
+    color: blue;
+}   
+.hero button{
+    background-color: chocolate;
+    color: cornsilk;
+}
+.herocontent img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.
+
